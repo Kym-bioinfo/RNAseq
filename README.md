@@ -19,7 +19,7 @@ You may need some 操作 to complete mounting your Google Drive. <br>
 
 Afer MOunted your google Drive, to clone this git, fill in a new code cell as following and execute.
 
-```
+```Python
 %cd  /content/drive/MyDrive/
 !git clone https://github.com/Kym-bioinfo/RNAseq.git
 ```
