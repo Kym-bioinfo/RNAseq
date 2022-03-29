@@ -13,8 +13,8 @@
 
 
 ### Hou to clone ti git on your Google Drive###
-use https://colab.research.google.com/gist/Kym-bioinfo/04b1b1356811e5020d2ecc05007d3d26/git_clone.ipynb
-Acsess to <a href=https://colab.research.google.com/?hl=en> Google Colab</a> and select "New notebook" to make a jupyter notebook file.<br>
+use <a href=https://colab.research.google.com/gist/Kym-bioinfo/04b1b1356811e5020d2ecc05007d3d26/git_clone.ipynb>Colab notebooks</a><br>
+Acsess to <a href=https://colab.research.google.com/?hl=en> Google Colab</a> and select "New notebook" to make a Colab notebook file.<br>
 To mount your Google Drive, fill in the code cell as folowing.
 
 ```Python
