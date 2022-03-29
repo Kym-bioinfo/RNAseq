@@ -6,6 +6,14 @@
 5. Outputsディレクトリに実行結果が出力される
 
 ## How to use ##
+1. Clone this git on your Google Drive1.
+
+
+
+
+
+### Hou to clone ti git on your Google Drive###
+use https://colab.research.google.com/gist/Kym-bioinfo/04b1b1356811e5020d2ecc05007d3d26/git_clone.ipynb
 Acsess to <a href=https://colab.research.google.com/?hl=en> Google Colab</a> and select "New notebook" to make a jupyter notebook file.<br>
 To mount your Google Drive, fill in the code cell as folowing.
 
@@ -24,4 +32,5 @@ Afer MOunted your google Drive, to clone this git, fill in a new code cell as fo
 !git clone https://github.com/Kym-bioinfo/RNAseq.git
 ```
 
-
+Now, your Google Drive has a directry "RNAseq".
+Go to <a href=https://colab.research.google.com/?hl=en> Google Colab</a>
