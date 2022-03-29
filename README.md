@@ -6,7 +6,7 @@
 5. Outputsディレクトリに実行結果が出力される
 
 ## How to use ##
-Acsess to <a herf=https://colab.research.google.com>Google Colab</a> and select "New notebook"　<br>
+Acsess to <a herf=https://colab.research.google.com/?hl=en>Google Colab</a> and select "New notebook"　<br>
 To mount your Google Drive, fill in the code cell as folowing
 
 ```Python
