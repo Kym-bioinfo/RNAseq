@@ -6,8 +6,8 @@
 5. Outputsディレクトリに実行結果が出力される
 
 ## How to use ##
-Acsess to <a href=https://colab.research.google.com> Google Colab</a> and select "New notebook"　<br>
-To mount your Google Drive, fill in the code cell as folowing
+Acsess to <a href=https://colab.research.google.com/?hl=en> Google Colab</a> and select "New notebook" to make a jupyter notebook file.<br>
+To mount your Google Drive, fill in the code cell as folowing.
 
 ```Python
 from google.colab import drive
@@ -15,3 +15,13 @@ drive.mount('/content/drive')
 ```
 
 Then, to execute the code in the cell, either press the play button to the left of the code, or use the keyboard shortcut "Command/Ctrl+Enter".
+You may need some 操作 to complete mounting your Google Drive. <br>
+
+Afer MOunted your google Drive, to clone this git, fill in a new code cell as following and execute.
+
+```
+%cd  /content/drive/MyDrive/
+!git clone https://github.com/Kym-bioinfo/RNAseq.git
+```
+
+
