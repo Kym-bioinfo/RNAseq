@@ -14,3 +14,4 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
+Then, to execute the code in the cell, either press the play button to the left of the code, or use the keyboard shortcut "Command/Ctrl+Enter".
