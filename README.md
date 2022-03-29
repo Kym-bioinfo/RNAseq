@@ -12,5 +12,5 @@
 
 
 
-### Hou to clone ti git on your Google Drive###
+## Hou to clone ti git on your Google Drive ##
 use <a href=https://colab.research.google.com/gist/Kym-bioinfo/04b1b1356811e5020d2ecc05007d3d26/git_clone.ipynb>this Colab notebooks</a>
